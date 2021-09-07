@@ -1,0 +1,377 @@
+body {
+	font-family:UniversRoman,Arial,sans-serif;font-size:12pt;line-height:1.3;color:#999;background-color:#1c1d26;
+}
+
+.dark-mode {
+  background-color: #cccccc;
+}
+
+h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6{font-family:inherit;font-weight:500;line-height:1.3;color:inherit;margin-top:22px;margin-bottom:11px}
+h1 small,.h1 small,h2 small,.h2 small,h3 small,.h3 small,h4 small,.h4 small,h5 small,.h5 small,h6 small,.h6 small,h1 .small,.h1 .small,h2 .small,.h2 .small,h3 .small,.h3 .small,h4 .small,.h4 .small,h5 .small,.h5 .small,h6 .small,.h6 .small{font-weight:400;font-size:75%;line-height:1;color:#555555}h1,.h1{font-size:52px}h2,.h2{font-size:30px}h3,.h3{font-size:21px;font-family:UniversCondensed,Arial,sans-serif;font-weight:700}h3 small,.h3 small,h3 .small,.h3 .small{font-size:65%}h4,.h4{font-size:20px}h5,.h5{font-size:14px;font-weight:700;text-transform:uppercase}
+
+#rcorners1 {
+			border-radius: 25px;
+			background: #800000;
+            padding: 15px; 
+            color: #eeeeee;
+    }
+  
+#rcorners1 a {
+  color: #e77724;
+}
+
+#rcorners1 a:hover {
+  color: #999999;
+}
+
+.img-acu
+{
+  width: 220;
+  background:transparent url("files/img/computer_kid.jpg");
+}
+
+.img-acu:hover
+{
+  background-image: url("https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif");
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #222222;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+}
+
+.navbar a {
+  font-size: 16px;
+  color: #999999;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: #999999;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+}
+
+.navbar a:link {
+  color: #999999;
+}
+
+.navbar a:visited {
+    color: #999999;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  color: #ffffff;
+  background-color: #555555;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+
+.dropdown-content a:link {
+  color: black;
+}
+
+.dropdown-content a:visited {
+    color: black;
+}
+
+.dropdown-content a:hover {
+  background-color: #aaaaaa;
+  color:#555555;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.h2{font-size:52px}
+
+.container{
+	margin-right:auto;
+	margin-left:auto;
+	padding-left:8%;
+	padding-right:8%;
+}
+
+ /* unvisited link */
+ a:link {color: #777;}
+
+/* visited link */
+a:visited {color: #777;
+  text-decoration: none;
+border-bottom: 1pt dotted #999;
+}
+
+/* mouse over link */
+a:hover {color: #bcbcbc;
+text-decoration: none;
+border-bottom: 1pt dotted #999;}
+
+/* selected link 
+a:active {color:#800000;} */
+
+  
+#copyright {
+  text-align: left;
+  margin: auto;
+  font-size: 10pt;
+}
+
+#copyright ul {
+  list-style-type: none;
+}
+
+  #copyright ul.links {
+    display: inline-block;
+    background: #2C2929;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 5px;
+    margin: auto;
+    padding: 0.85em 0em 0.85em 0em;
+    width: 100%;
+    position: relative;
+    bottom: 0px;
+  }
+
+  /* tell the container's children to float left: */
+.float-my-children > * {
+  float:left;
+  margin-right:5px;
+}
+
+/* this is called a clearfix. it makes sure that the container's children floats are cleared, without using extra markup */
+
+.clearfix {
+  *zoom:1 /* for IE */
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+/* end clearfix*/
+
+/* Button */
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.button {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -ms-appearance: none;
+  appearance: none;
+  -moz-transition: border-color 0.2s ease;
+  -webkit-transition: border-color 0.2s ease;
+  -ms-transition: border-color 0.2s ease;
+  transition: border-color 0.2s ease;
+  background-color: transparent;
+  border: solid 1px !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+  border-radius: 3em;
+  color: #999999 !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 0.6em;
+  font-weight: bold;
+  height: calc(4.75em + 2px);
+  letter-spacing: 0.25em;
+  line-height: 4.75em;
+  outline: 0;
+  padding: 0 2.5em;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+  input[type="submit"]:after,
+  input[type="reset"]:after,
+  input[type="button"]:after,
+  button:after,
+  .button:after {
+    -moz-transform: scale(0.25);
+    -webkit-transform: scale(0.25);
+    -ms-transform: scale(0.25);
+    transform: scale(0.25);
+    pointer-events: none;
+    -moz-transition: opacity 0.2s ease, -moz-transform 0.2s ease;
+    -webkit-transition: opacity 0.2s ease, -webkit-transform 0.2s ease;
+    -ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    background: #ffffff;
+    border-radius: 3em;
+    content: '';
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  input[type="submit"].icon:before,
+  input[type="reset"].icon:before,
+  input[type="button"].icon:before,
+  button.icon:before,
+  .button.icon:before {
+    margin-right: 0.75em;
+  }
+
+  input[type="submit"].fit,
+  input[type="reset"].fit,
+  input[type="button"].fit,
+  button.fit,
+  .button.fit {
+    width: 100%;
+  }
+
+  input[type="submit"].small,
+  input[type="reset"].small,
+  input[type="button"].small,
+  button.small,
+  .button.small {
+    font-size: 0.4em;
+  }
+
+  input[type="submit"].large,
+  input[type="reset"].large,
+  input[type="button"].large,
+  button.large,
+  .button.large {
+    font-size: 0.8em;
+  }
+
+  input[type="submit"].primary,
+  input[type="reset"].primary,
+  input[type="button"].primary,
+  button.primary,
+  .button.primary {
+    background-color: #ffffff;
+    color: #312450 !important;
+  }
+
+    input[type="submit"].primary:after,
+    input[type="reset"].primary:after,
+    input[type="button"].primary:after,
+    button.primary:after,
+    .button.primary:after {
+      display: none;
+    }
+
+  input[type="submit"].disabled, input[type="submit"]:disabled,
+  input[type="reset"].disabled,
+  input[type="reset"]:disabled,
+  input[type="button"].disabled,
+  input[type="button"]:disabled,
+  button.disabled,
+  button:disabled,
+  .button.disabled,
+  .button:disabled {
+    cursor: default;
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  input[type="submit"]:hover,
+  input[type="reset"]:hover,
+  input[type="button"]:hover,
+  button:hover,
+  .button:hover {
+    border-color: rgba(255, 255, 255, 0.95) !important;
+    color: #ffffff;
+  }
+
+    input[type="submit"]:hover:after,
+    input[type="reset"]:hover:after,
+    input[type="button"]:hover:after,
+    button:hover:after,
+    .button:hover:after {
+      opacity: 0.05;
+      -moz-transform: scale(1);
+      -webkit-transform: scale(1);
+      -ms-transform: scale(1);
+      transform: scale(1);
+    }
+
+    input[type="submit"]:hover:active,
+    input[type="reset"]:hover:active,
+    input[type="button"]:hover:active,
+    button:hover:active,
+    .button:hover:active {
+      border-color: #ffffff !important;
+      color: #ffffff;
+    }
+
+      input[type="submit"]:hover:active:after,
+      input[type="reset"]:hover:active:after,
+      input[type="button"]:hover:active:after,
+      button:hover:active:after,
+      .button:hover:active:after {
+        opacity: 0.1;
+      }
