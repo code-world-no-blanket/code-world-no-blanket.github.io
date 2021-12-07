@@ -145,15 +145,19 @@ body {
  a:link {color: #777;}
 
 /* visited link */
-a:visited {color: #777;
+a:visited {
+  color: #777;
   text-decoration: none;
-border-bottom: 1pt dotted #999;
+  border-bottom: 1pt dotted #999;
 }
 
 /* mouse over link */
-a:hover {color: #bcbcbc;
-text-decoration: none;
-border-bottom: 1pt dotted #999;}
+a:hover {
+  color: #bcbcbc;
+  text-decoration: none;
+  border-bottom: 1pt dotted #999;
+}
+
 
 /* selected link 
 a:active {color:#800000;} */
