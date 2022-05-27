@@ -1,0 +1,162 @@
+{
+    "codeworld-Logo.jpg": {
+        "src": "images/photos/codeworld-Logo.jpg",
+        "mtime": 1631026825.3802373,
+        "date": "",
+        "size": [
+            1243,
+            924
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/codeworld-Logo.jpg",
+        "thumbnail_size": [
+            215,
+            160
+        ]
+    },
+    "codeworld-Black(2).jpg": {
+        "src": "images/photos/codeworld-Black(2).jpg",
+        "mtime": 1651088711.549135,
+        "date": "",
+        "size": [
+            1243,
+            924
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/codeworld-Black(2).jpg",
+        "thumbnail_size": [
+            215,
+            160
+        ]
+    },
+    "codeworld-Logo-White.png": {
+        "src": "images/photos/codeworld-Logo-White.png",
+        "mtime": 1631028598.1213841,
+        "date": "",
+        "size": [
+            4970,
+            3691
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/codeworld-Logo-White.jpg",
+        "thumbnail_size": [
+            216,
+            160
+        ]
+    },
+    "codeworld-Logo-White2.png": {
+        "src": "images/photos/codeworld-Logo-White2.png",
+        "mtime": 1631198815.576885,
+        "date": "",
+        "size": [
+            2560,
+            1440
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/codeworld-Logo-White2.jpg",
+        "thumbnail_size": [
+            284,
+            160
+        ]
+    },
+    "spring22-1.jpg": {
+        "src": "images/photos/spring22-1.jpg",
+        "mtime": 1646423538.7188003,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/spring22-1.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "spring22-2.jpg": {
+        "src": "images/photos/spring22-2.jpg",
+        "mtime": 1646423545.3948197,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/spring22-2.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "spring22-3.jpg": {
+        "src": "images/photos/spring22-3.jpg",
+        "mtime": 1646423547.1378248,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/spring22-3.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "spring22-4.jpg": {
+        "src": "images/photos/spring22-4.jpg",
+        "mtime": 1646423551.5048375,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/spring22-4.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "vturcs22.jpg": {
+        "src": "images/photos/vturcs22.jpg",
+        "mtime": 1651072681.3615947,
+        "date": "",
+        "size": [
+            3000,
+            4000
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/vturcs22.jpg",
+        "thumbnail_size": [
+            120,
+            160
+        ]
+    },
+    "vturcs22-2.jpg": {
+        "src": "images/photos/vturcs22-2.jpg",
+        "mtime": 1651253412.0898676,
+        "date": "",
+        "size": [
+            1080,
+            720
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/vturcs22-2.jpg",
+        "thumbnail_size": [
+            240,
+            160
+        ]
+    }
+}
