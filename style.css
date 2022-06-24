@@ -379,3 +379,27 @@ button,
       .button:hover:active:after {
         opacity: 0.1;
       }
+
+      .card {
+        box-shadow: 0 4px 8px 5px rgba(231, 227, 227, 0.2);
+        width: 175px;
+        margin: right;
+        text-align: center;
+        font-family: arial;
+        padding-top: 10px;
+        }
+
+        .title {
+        color: grey;
+        font-size: 18px;
+        font-weight: bold;
+        padding: 0;
+        }
+
+        .subtitle {
+          color: aliceblue;
+          font-size: 14px;
+          padding-bottom: 5px;
+          font-weight: bold;
+          margin: 0;
+        }
