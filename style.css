@@ -216,6 +216,22 @@ a:active {color:#800000;} */
 
 /* end clearfix*/
 
+/* Table */
+table.list {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table.list td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+table.list tr:nth-child(even) {
+  background-color: #444444;
+}
+
 /* Button */
 
 input[type="submit"],
