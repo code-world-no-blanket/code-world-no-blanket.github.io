@@ -158,5 +158,37 @@
             240,
             160
         ]
+    },
+    "summer22.jpg": {
+        "src": "images/photos/summer22.jpg",
+        "mtime": 1665473738.8401415,
+        "date": "",
+        "size": [
+            1600,
+            1200
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/summer22.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "fall22.jpg": {
+        "src": "images/photos/fall22.jpg",
+        "mtime": 1665466784.5972276,
+        "date": "",
+        "size": [
+            1600,
+            1200
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/fall22.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
     }
 }

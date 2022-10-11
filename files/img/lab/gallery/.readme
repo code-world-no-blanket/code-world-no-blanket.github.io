@@ -1,0 +1,3 @@
+Add image to public/images/photos
+Update templates/index_template.jinja
+run > gallery-build
