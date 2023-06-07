@@ -220,6 +220,7 @@ a:active {color:#800000;} */
 table.list {
   border-collapse: collapse;
   width: 100%;
+  font-size: larger;
 }
 
 table.list td, th {
@@ -398,11 +399,12 @@ button,
 
       .card {
         box-shadow: 0 4px 8px 5px rgba(231, 227, 227, 0.2);
-        width: 13vw;
+        width: 15vw;
+        height: 10vw;
         margin: right;
         text-align: center;
         font-family: arial;
-        padding-top: 10px;
+        padding-top: 16px;
         }
 
         .title {
